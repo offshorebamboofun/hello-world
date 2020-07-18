@@ -1,2 +1,4 @@
 # hello-world
-This is a short discription.
+
+Trying to learn how to code.
+I wish I could create a gallery of my fanart on Github!
